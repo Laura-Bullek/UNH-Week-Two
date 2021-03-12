@@ -60,7 +60,9 @@ article p {
 }
 
 /* TODO: Style the keyword - underline, black text, grab cursor */
-
+u  {
+  cursor: pointer;
+}
 /* TODO: Position tooltip above the keyword, same color as header and nav links, no border-radius, smaller font size */
 
 aside {
